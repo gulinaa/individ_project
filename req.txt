@@ -1,0 +1,9 @@
+Django
+psycopg2-binary
+Pillow
+djangorestframework
+python-decouple
+django-rest-passwordreset
+drf-yasg
+redis
+celery
